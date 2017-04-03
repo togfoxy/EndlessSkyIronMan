@@ -14,7 +14,7 @@ ship "Arach Courier"
 		category "Light Freighter"
 		"cost" 723000
 		"shields" 1200
-		"hull" 2000
+		"hull"  10000
 		"required crew" 1
 		"bunks" 1
 		"mass" 100
@@ -56,7 +56,7 @@ ship "Arach Freighter"
 		category "Light Freighter"
 		"cost" 4580000
 		"shields" 3400
-		"hull" 8500
+		"hull"  42500
 		"required crew" 3
 		"bunks" 10
 		"mass" 380
@@ -103,7 +103,7 @@ ship "Arach Hulk"
 		category "Heavy Freighter"
 		"cost" 9978000
 		"shields" 5700
-		"hull" 13800
+		"hull"  69000
 		"required crew" 8
 		"bunks" 14
 		"mass" 670
@@ -154,7 +154,7 @@ ship "Arach Spindle"
 		category "Heavy Freighter"
 		"cost" 6652000
 		"shields" 5000
-		"hull" 9700
+		"hull"  48500
 		"required crew" 4
 		"bunks" 14
 		"mass" 340
@@ -203,7 +203,7 @@ ship "Arach Transport"
 		category "Light Freighter"
 		"cost" 2772000
 		"shields" 2300
-		"hull" 4800
+		"hull"  24000
 		"required crew" 2
 		"bunks" 5
 		"mass" 280
@@ -250,7 +250,7 @@ ship "Heliarch Interdictor"
 		category "Medium Warship"
 		"cost" 35487000
 		"shields" 65300
-		"hull" 54600
+		"hull"  273000
 		"required crew" 42
 		"bunks" 70
 		"mass" 520
@@ -323,7 +323,7 @@ ship "Heliarch Neutralizer"
 		category "Light Warship"
 		"cost" 18847000
 		"shields" 36400
-		"hull" 32800
+		"hull"  164000
 		"required crew" 17
 		"bunks" 24
 		"mass" 270
@@ -428,7 +428,7 @@ ship "Heliarch Punisher"
 		category "Heavy Warship"
 		"cost" 58487000
 		"shields" 108000
-		"hull" 85000
+		"hull"  425000
 		"required crew" 96
 		"bunks" 145
 		"mass" 780
@@ -563,7 +563,7 @@ ship "Kimek Briar"
 		category "Transport"
 		"cost" 1532000
 		"shields" 3600
-		"hull" 1700
+		"hull"  8500
 		"required crew" 3
 		"bunks" 25
 		"mass" 180
@@ -606,7 +606,7 @@ ship "Kimek Spire"
 		category "Transport"
 		"cost" 9375000
 		"shields" 14200
-		"hull" 4900
+		"hull"  24500
 		"required crew" 19
 		"bunks" 197
 		"mass" 570
@@ -657,7 +657,7 @@ ship "Kimek Thistle"
 		category "Transport"
 		"cost" 2904000
 		"shields" 7500
-		"hull" 2800
+		"hull"  14000
 		"required crew" 7
 		"bunks" 52
 		"mass" 270
@@ -703,7 +703,7 @@ ship "Kimek Thorn"
 		category "Transport"
 		"cost" 440000
 		"shields" 1400
-		"hull" 800
+		"hull"  4000
 		"required crew" 1
 		"bunks" 7
 		"mass" 80
@@ -745,7 +745,7 @@ ship "Saryd Runabout"
 		category "Light Freighter"
 		"cost" 942000
 		"shields" 2000
-		"hull" 1400
+		"hull"  7000
 		"required crew" 2
 		"bunks" 13
 		"mass" 140
@@ -785,7 +785,7 @@ ship "Saryd Sojourner"
 		category "Heavy Freighter"
 		"cost" 11075000
 		"shields" 13000
-		"hull" 7700
+		"hull"  38500
 		"required crew" 17
 		"bunks" 84
 		"mass" 640
@@ -837,7 +837,7 @@ ship "Saryd Traveler"
 		category "Heavy Freighter"
 		"cost" 3385000
 		"shields" 6500
-		"hull" 4000
+		"hull"  20000
 		"required crew" 10
 		"bunks" 45
 		"mass" 350
@@ -887,7 +887,7 @@ ship "Saryd Visitor"
 		category "Light Freighter"
 		"cost" 1982000
 		"shields" 4000
-		"hull" 2400
+		"hull"  12000
 		"required crew" 5
 		"bunks" 29
 		"mass" 270

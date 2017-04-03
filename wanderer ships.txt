@@ -15,7 +15,7 @@ ship "Earth Shaper"
 	attributes
 		category "Light Freighter"
 		"cost" 500000
-		"hull" 3300
+		"hull"  16500
 		"mass" 30
 		"drag" .9
 		"heat dissipation" .9
@@ -52,7 +52,7 @@ ship "Flycatcher"
 	attributes
 		category "Drone"
 		"cost" 830000
-		"hull" 4700
+		"hull"  23500
 		"mass" 40
 		"drag" .6
 		"heat dissipation" .9
@@ -90,7 +90,7 @@ ship "Summer Leaf"
 		category "Light Warship"
 		"cost" 9500000
 		"shields" 14400
-		"hull" 6700
+		"hull"  33500
 		"required crew" 6
 		"bunks" 15
 		"mass" 110
@@ -137,7 +137,7 @@ ship "Autumn Leaf"
 		category "Light Warship"
 		"cost" 12500000
 		"shields" 18700
-		"hull" 7400
+		"hull"  37000
 		"required crew" 8
 		"bunks" 16
 		"mass" 130
@@ -186,7 +186,7 @@ ship "Strong Wind"
 		category "Medium Warship"
 		"cost" 16100000
 		"shields" 28500
-		"hull" 19600
+		"hull"  98000
 		"required crew" 17
 		"bunks" 39
 		"mass" 260
@@ -239,7 +239,7 @@ ship "Tempest"
 		category "Medium Warship"
 		"cost" 19700000
 		"shields" 42100
-		"hull" 25900
+		"hull"  129500
 		"required crew" 38
 		"bunks" 53
 		"mass" 320
@@ -335,7 +335,7 @@ ship "Derecho"
 		category "Heavy Warship"
 		"cost" 30500000
 		"shields" 53200
-		"hull" 32700
+		"hull"  163500
 		"required crew" 53
 		"bunks" 82
 		"mass" 540
@@ -435,7 +435,7 @@ ship "Hurricane"
 		category "Heavy Warship"
 		"cost" 39100000
 		"shields" 72400
-		"hull" 46500
+		"hull"  232500
 		"required crew" 76
 		"bunks" 117
 		"mass" 770
@@ -544,7 +544,7 @@ ship "Deep River"
 		category "Heavy Freighter"
 		"cost" 18300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 750
@@ -594,7 +594,7 @@ ship "Deep River" "Deep River 0"
 		category "Heavy Freighter"
 		"cost" 8300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 350
@@ -617,7 +617,7 @@ ship "Deep River" "Deep River 1"
 		category "Heavy Freighter"
 		"cost" 10300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 430
@@ -640,7 +640,7 @@ ship "Deep River" "Deep River 2"
 		category "Heavy Freighter"
 		"cost" 12300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 510
@@ -663,7 +663,7 @@ ship "Deep River" "Deep River 3"
 		category "Heavy Freighter"
 		"cost" 14300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 590
@@ -686,7 +686,7 @@ ship "Deep River" "Deep River 4"
 		category "Heavy Freighter"
 		"cost" 16300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 22
 		"mass" 670
@@ -711,7 +711,7 @@ ship "Deep River Transport"
 		category "Heavy Freighter"
 		"cost" 18300000
 		"shields" 17600
-		"hull" 47500
+		"hull"  237500
 		"required crew" 13
 		"bunks" 166
 		"mass" 750

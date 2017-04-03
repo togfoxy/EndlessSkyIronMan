@@ -14,7 +14,7 @@ ship "Korath Raider"
 		category "Heavy Warship"
 		"cost" 16570000
 		"shields" 27000
-		"hull" 9000
+		"hull"  45000
 		"required crew" 145
 		"bunks" 250
 		"mass" 720
@@ -72,7 +72,7 @@ ship "Korath Chaser"
 		category "Fighter"
 		"cost" 671000
 		"shields" 2300
-		"hull" 900
+		"hull"  4500
 		"required crew" 1
 		"bunks" 1
 		"mass" 40
@@ -107,9 +107,9 @@ ship "Korath World-Ship"
 	sprite "ship/world-ship a"
 	attributes
 		category "Heavy Freighter"
-		cost 27690000
-		shields 47000
-		hull 34000
+		"cost" 27690000
+		"shields" 47000
+		"hull"  170000
 		"required crew" 794
 		"bunks" 1492
 		"mass" 1735
@@ -420,7 +420,7 @@ ship "Tek Far 71 - Lek"
 		category "Medium Warship"
 		"cost" 22870000
 		"shields" 25400
-		"hull" 29500
+		"hull"  147500
 		"automaton" 1
 		"mass" 610
 		"drag" 9.6
@@ -512,7 +512,7 @@ ship "Tek Far 78 - Osk"
 		category "Medium Warship"
 		"cost" 25630000
 		"shields" 27600
-		"hull" 34100
+		"hull"  170500
 		"automaton" 1
 		"mass" 690
 		"drag" 10.2
@@ -603,7 +603,7 @@ ship "Tek Far 109"
 		category "Medium Warship"
 		"cost" 18290000
 		"shields" 17900
-		"hull" 15800
+		"hull"  79000
 		"automaton" 1
 		"mass" 540
 		"drag" 9.1
@@ -673,7 +673,7 @@ ship "Met Par Tek 53"
 		category "Light Warship"
 		"cost" 14480000
 		"shields" 15100
-		"hull" 22200
+		"hull"  111000
 		"automaton" 1
 		"mass" 420
 		"drag" 5.7
@@ -761,7 +761,7 @@ ship "Far Lek 14"
 		category "Drone"
 		"cost" 573000
 		"shields" 900
-		"hull" 1600
+		"hull"  8000
 		"automaton" 1
 		"mass" 26
 		"drag" .8
@@ -800,7 +800,7 @@ ship "Far Osk 27"
 		category "Fighter"
 		"cost" 761000
 		"shields" 1500
-		"hull" 2400
+		"hull"  12000
 		"automaton" 1
 		"mass" 34
 		"drag" 1.1
@@ -839,7 +839,7 @@ ship "Model 8"
 		category "Interceptor"
 		"cost" 3725000
 		"shields" 5450
-		"hull" 3320
+		"hull"  16600
 		"automaton" 1
 		"mass" 110
 		"drag" 3.2
@@ -884,7 +884,7 @@ ship "Model 16"
 		category "Light Warship"
 		"cost" 8449000
 		"shields" 15700
-		"hull" 9800
+		"hull"  49000
 		"automaton" 1
 		"mass" 250
 		"drag" 6.9
@@ -936,7 +936,7 @@ ship "Model 32"
 		category "Light Warship"
 		"cost" 12765000
 		"shields" 27900
-		"hull" 13400
+		"hull"  67000
 		"automaton" 1
 		"mass" 370
 		"drag" 9.0
@@ -989,7 +989,7 @@ ship "Model 64"
 		category "Medium Warship"
 		"cost" 19552000
 		"shields" 41700
-		"hull" 18000
+		"hull"  90000
 		"automaton" 1
 		"mass" 580
 		"drag" 11.1
@@ -1043,7 +1043,7 @@ ship "Model 128"
 		category "Medium Warship"
 		"cost" 24073000
 		"shields" 57000
-		"hull" 23100
+		"hull"  115500
 		"automaton" 1
 		"mass" 780
 		"drag" 13.2
@@ -1099,7 +1099,7 @@ ship "Model 256"
 		category "Heavy Warship"
 		"cost" 34920000
 		"shields" 71700
-		"hull" 28700
+		"hull"  143500
 		"automaton" 1
 		"mass" 970
 		"drag" 15.3
@@ -1156,7 +1156,7 @@ ship "Model 512"
 		category "Heavy Warship"
 		"cost" 40375000
 		"shields" 86400
-		"hull" 34200
+		"hull"  171000
 		"automaton" 1
 		"mass" 1150
 		"drag" 17.4
